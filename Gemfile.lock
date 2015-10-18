@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.4.2)
+    yajl-ruby (1.2.1)
+    zk (1.9.6)
+      zookeeper (~> 1.4.0)
+    zookeeper (1.4.11)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rake
+  yajl-ruby
+  zk
+  zookeeper
+
+BUNDLED WITH
+   1.10.6

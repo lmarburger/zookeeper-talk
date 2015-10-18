@@ -1,0 +1,4 @@
+vendor/zookeeper-*
+log/
+tmp/
+db/
